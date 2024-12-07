@@ -1,2 +1,2 @@
 # nomic-bitcoin-app
-Bitcoin deposits and withdrawals using Nomiv
+Bitcoin deposits and withdrawals using Nomic
