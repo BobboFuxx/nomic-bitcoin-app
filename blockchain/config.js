@@ -2,7 +2,7 @@
 module.exports = {
   chainId: "prysm-devnet-1",
   bech32Prefix: "prysm",
-  relayers: ["https://my-bitcoin-relayer.example.com:1234"],
+  relayers: ["https://my-bitcoin-relayer.example.com:1234"], //Nomic relayer
   ibcChannel: "channel-0", // Update with the correct IBC channel for your chain
   bitcoinNetwork: "testnet",
 };
