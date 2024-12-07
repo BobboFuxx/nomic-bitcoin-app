@@ -1,0 +1,13 @@
+{
+  "name": "nomic-bitcoin-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "nomic-bitcoin": "^1.0.0"
+  }
+}
